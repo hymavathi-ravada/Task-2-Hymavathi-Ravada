@@ -61,5 +61,6 @@ The project includes:
 # output
 The Exploratory Data Analysis (EDA) successfully identified sales trends, top-performing products, customer payment preferences, and order patterns. Various visualizations and statistical analyses provided actionable business insights, helping support data-driven decision-making and sales strategy optimization.
 
-
+# Author
+Hymavathi Ravada
 
